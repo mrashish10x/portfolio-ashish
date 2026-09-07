@@ -13,7 +13,7 @@ export function About() {
 
       <StaggerGroup className="rounded-[10px] border border-border bg-surface px-7 py-6 font-sans text-[15px] text-text-dim">
         <StaggerItem className="mb-3">
-          I&apos;m <strong className="text-text">Ashish Kumar</strong>, a first-year Information
+          I&apos;m <strong className="text-text">Ashish Kumar</strong>, a second-year Information
           Technology student who likes taking things apart to see how they work — code included.
           Most days you&apos;ll find me solving DSA problems, picking up a new web dev concept, or
           working through a Forage job simulation to understand how real engineering teams operate.
