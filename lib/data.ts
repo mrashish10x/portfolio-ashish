@@ -14,8 +14,8 @@ export const NAV_ITEMS = [
 export const SOCIAL_LINKS = [
   { label: "github.com/mrashish10x", href: "https://github.com/mrashish10x" },
   {
-    label: "linkedin.com/in/ashish",
-    href: "https://www.linkedin.com/in/your-linkedin-username/",
+    label: "linkedin.com/in/ashish-kumar-a235712a7",
+    href: "https://www.linkedin.com/in/ashish-kumar-a235712a7",
   },
   {
     label: "leetcode.com/u/mrashish10x",
@@ -127,13 +127,12 @@ export const CERTIFICATES = [
 ];
 
 export const CONTACT = [
-  { label: "email", value: "your-email@example.com", href: "mailto:your-email@example.com" },
-  { label: "phone", value: "+91 XXXXXXXXXX", href: null },
+  { label: "email", value: "ashishkumar2832t80jm@gmail.com", href: "mailto:ashishkumar2832t80jm@gmail.com" },
   { label: "github", value: "github.com/mrashish10x", href: "https://github.com/mrashish10x" },
   {
     label: "linkedin",
-    value: "linkedin.com/in/your-linkedin-username",
-    href: "https://www.linkedin.com/in/your-linkedin-username/",
+    value: "linkedin.com/in/ashish-kumar-a235712a7",
+    href: "https://www.linkedin.com/in/ashish-kumar-a235712a7",
   },
   {
     label: "leetcode",
